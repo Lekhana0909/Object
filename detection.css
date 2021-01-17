@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(#86f0d0 0%, #f5abe7 100%);
+}
+#multiple{
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    border-width: 5px;
+}
+a{
+    font-size: 24px;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+#canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+#backButton{
+    position:absolute;
+    float:left;
+    background-color: black;
+    color: white;
+}
