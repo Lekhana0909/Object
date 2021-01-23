@@ -1,0 +1,19 @@
+body{
+   background-color: cadetblue;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+#canvas{
+    box-shadow: 10px 10px 10px rgb(158, 19, 19);
+    border-radius: 10px;
+    margin-top:30px;
+}
